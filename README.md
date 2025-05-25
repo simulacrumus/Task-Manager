@@ -49,7 +49,7 @@ dotnet restore
 dotnet run
 ```
 
-API will be available at https://localhost:5000
+API will be available at http://localhost:5000
 
 #### Frontend
 
@@ -91,7 +91,7 @@ App will be available at http://localhost:5173
 
 ## API Documentation
 
-Swagger documentation is available at https://localhost:5001/swagger or https://localhost:5000/swagger
+Swagger documentation is available at http://localhost:5001/swagger or https://localhost:5000/swagger
 
 ## Notes & Assumptions
 
