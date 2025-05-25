@@ -8,6 +8,9 @@ A full-stack task management application built with React and .NET Core Web API.
 - Viewing a list of tasks
 - Updating an existing task
 - Toggling a task's completion status
+- Deleting a task
+- Searching tasks
+- Filtering only completed tasks
 
 ## Tech Stack
 
