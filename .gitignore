@@ -1,0 +1,59 @@
+# === GLOBAL ===
+.env
+*.log
+*.tmp
+*.temp
+*.local
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# IDEs and Editor settings
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# === REACT CLIENT ===
+client/node_modules/
+client/build/
+client/dist/
+client/dist-ssr/
+client/.env.local
+client/.env.development.local
+client/.env
+
+client/package-lock.json
+client/yarn.lock
+
+# === .NET SERVER ===
+server/App/bin/
+server/App/obj/
+server/App/.vs/
+server/App/*.user
+server/App/*.dbmdl
+server/App/*.dbml
+server/App/*.suo
+server/App/*.userosscache
+server/App/*.sln.docstates
+
+server/Tests/.vs/
+server/Tests/*.user
+server/Tests/bin/
+server/Tests/obj/
+server/Tests/*.dbmdl
+server/Tests/*.dbml
+server/Tests/*.suo
+server/Tests/*.userosscache
+server/Tests/*.sln.docstates
