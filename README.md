@@ -44,7 +44,7 @@ API will be available at http://localhost:5001 and app will be available at http
 #### Backend
 
 ```bash
-cd server
+cd server/App
 dotnet restore
 dotnet run
 ```
