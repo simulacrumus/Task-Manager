@@ -31,7 +31,7 @@ A full-stack task management application built with React and .NET Core Web API.
 docker compose up --build
 ```
 
-API will be available at https://localhost:5001 and app will be available at http://localhost:3000
+API will be available at http://localhost:5001 and app will be available at http://localhost:3000
 
 ### Option 2: Manuel setup
 
